@@ -1,0 +1,23 @@
+a{
+  color:pink;
+  font-family: monospace;
+  text-decoration: overline underline;
+}
+h1{
+  font-weight: lighter;
+  font-variant-ligatures: normal;
+}
+body{
+  background-color: inherit;
+  padding:20px;
+  border: 10px solid black;
+}
+ul{
+  font-size: 10px;
+  font-family: cursive;
+  color:violet;
+}
+img{
+  border:30px double green;
+  align-items: center;
+}
