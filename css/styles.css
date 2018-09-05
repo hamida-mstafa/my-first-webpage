@@ -1,5 +1,5 @@
 h1 {
-  color: blue;
+  color: #0000ff;
   text-align: center;
 }
 h2{
@@ -10,6 +10,17 @@ h2{
 p{
   font-family: sans-serif;
 }
-ul{
+body{
+  background-color: hsla(50, 33%, 25%, .75);
+}
+ol{
+  line-height: 100px;
   line-height: 40px;
+  color:white;
+}
+strong{
+  text-decoration: underline;
+}
+em{
+  text-indent: inherit;
 }
